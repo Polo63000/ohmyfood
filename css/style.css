@@ -1,0 +1,17 @@
+@import url();  
+
+
+
+img{
+    width:50%;
+    object-fit: cover;
+}
+ul{
+
+list-style-type: none;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+    
