@@ -14,4 +14,48 @@ a{
     color: #000;
     text-decoration: none;
 }
-    
+
+.lieu{
+    background-color:#eaeaea;
+}
+
+#section1{
+    background-color:#f7f7f7 ;
+}
+
+#section1 a{
+    background-color:#e0b7ea ;
+}
+#section2 ol {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap:20px;  
+}
+#section2 li a{
+    background-color:#f7f7f7  ;
+}
+
+#section3{
+    background-color:#f7f7f7 ; 
+}
+.card{
+    background-color:#ffffff; 
+    border:2px solid #ffffff;
+}
+.img{
+    object-fit: cover;
+
+}
+
+footer{
+    background-color:#353535;
+    color:#C6C6C6;
+}
+ img{
+color:#C6C6C6;
+
+}
+
+
+
